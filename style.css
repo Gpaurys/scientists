@@ -1,0 +1,170 @@
+body {
+    font-family: 'News Cycle', sans-serif;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+  color: #0974b3;
+  margin: -15px 0 0;
+  padding: 10px 0 0;
+}
+
+div {
+  color: #666;
+}
+
+img {
+  width: 150px;
+  height: 208px;
+  float: left;
+  margin: 20px 22px 0 0;
+  margin-left: 0px;
+  position: relative;
+}
+
+img:hover {
+  background-size: cover;
+  background-image: url("namudarbas7-2.png/zoom.png");
+  transition: 0.5s ease;
+  opacity: 0.3;
+}
+
+span {
+  float: right;
+  padding-right: 20px;
+}
+
+.container {
+  width: 250px;
+  display: inline-flex;
+  margin: -15px 66px 0 0;
+}
+
+.box {
+  width: 260px;
+  height: 640px;
+  background: white;
+  border: 5px solid lightgrey;
+  border-top-style: solid;
+  border-top-color: lightgrey;
+  border-bottom: 0.5px solid lightgrey;
+  border-left: 0.5px solid lightgrey;
+  border-right: 0.5px solid lightgrey;
+  border-radius: 0 0 10px 10px;
+  padding: 20px;
+  margin: 15px 0 0 0;
+}
+
+.box:hover {
+
+  border-top-color: #0974b3;
+  margin: 10px 0;
+}
+
+.box2:hover {
+  border-top-color: #0974b3;
+}
+
+.box3:hover {
+  border-top-color: #0974b3;
+}
+
+.block:hover {
+  background: #325288;
+}
+
+.block2:hover {
+  background: #325288;
+}
+
+.block3:hover {
+  background: #325288;
+}
+
+.box2 {
+  width: 272px;
+  height: 620px;
+  background: white;
+  border: 5px solid lightgrey;
+  border-top-style: solid;
+  border-top-color: lightgrey;
+  border-bottom: 1px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  border-radius: 0 0 10px 10px;
+  padding: 20px;
+  margin-left: 45px;
+  margin: 10px 0 0 0;
+}
+
+
+
+.box3 {
+  width: 260px;
+  height: 645px;
+  background: white;
+  border: 5px solid lightgrey;
+  border-top-style: solid;
+  border-top-color: lightgrey;
+  border-bottom: 1px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  border-radius: 0 0 10px 10px;
+  padding: 20px;
+  margin-left: 13px;
+}
+
+.photo {
+  width: 149px;
+  height: 183px;
+}
+
+.zoomas {
+  float: right;
+  width: 100px;
+  height: 100px;
+  margin-right: 100px;
+}
+
+.middle {
+  /* margin-top: 10px; */
+  height: 550px;
+  margin: 0 10px 0 0;
+}
+
+.block {
+  width: 260px;
+  height: 70px;
+  background: #0974b3;
+  margin: 15px 0 0 0;
+  border-radius: 20px 0;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+}
+
+.block2 {
+  width: 260px;
+  height: 70px;
+  background: #0974b3;
+  margin: 20px 0 0 6px;
+  border-radius: 20px 0;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+}
+
+.block3 {
+  width: 260px;
+  height: 70px;
+  background: #0974b3;
+  margin: 20px 0 0 0;
+  border-radius: 20px 0;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+}
